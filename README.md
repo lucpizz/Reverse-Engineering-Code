@@ -97,12 +97,6 @@ Please contact me at lucpizz@gmail.com for any questions regarding this program.
 
 ---
 
-## Snapshot of Program
-
-![Snapshot of Command line Program](./Images/Employee-Tracker-App.png)
-
----
-
 ## License
 
 ISC License
